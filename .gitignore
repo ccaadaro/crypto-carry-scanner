@@ -1,0 +1,11 @@
+cache/
+reports/
+*.pyc
+__pycache__/
+.DS_Store
+.env
+nohup_bot.out
+*.csv
+*.json
+!README.md
+!CARRY_PROTOCOL.md
